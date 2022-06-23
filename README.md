@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitali-pashinov-4695b3239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitali-pashinov-4695b3239/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmngy-k1ayv3ikjepxrq_mg/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmngy-k1ayv3ikjepxrq_mg/videos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vitali-pashinov-4695b3239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitali-pashinov-4695b3239/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMNGY-K1AyV3iKjepxrQ_mg/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmngy-k1ayv3ikjepxrq_mg/videos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
